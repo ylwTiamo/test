@@ -1,8 +1,5 @@
 aaaaa
 主干操作 & 分支操作
-<<<<<<< HEAD
 test操作
-=======
-desktop操作
->>>>>>> 84efd6f382e8fb0c6b502284bd6db330c52f7161
+
 
